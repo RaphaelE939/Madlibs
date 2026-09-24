@@ -13,10 +13,6 @@ print(number)
 print(plural_noun2)
 print(adjective_2)
 
-number = 3
-my_string = f"My number is: {number}."
-print(my_string)
-
 message = f" Early in the morning, {name}, awesomely walked down to see his/her {adjective} {plural_noun}. Suddenly, he/she saw {number} {plural_noun2} {adjective_2} in the sky. {name} {verb} away/to (from) them \""
 
 print(message)
